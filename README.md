@@ -76,5 +76,8 @@ Par défaut, l'application s'abonne au symbole `['BTC/USD']`. Pour modifier la p
 * **Profondeur d'affichage** : modifiez le paramètre `depth` de `_update_plot` pour ajuster le nombre de niveaux.
 * **Intervalle de rafraîchissement** : changez la valeur du timer `self.check_timer.start(50)` pour adapter la fréquence de rafraîchissement.
 
+## Résultats
+On obtient un plot pyqtgraph comme ci-dessous:
+![image](https://github.com/user-attachments/assets/43e7e110-8aba-47b9-b031-cf7b7e927074)
 
 ---
