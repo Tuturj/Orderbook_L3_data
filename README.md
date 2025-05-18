@@ -81,6 +81,4 @@ On obtient un plot pyqtgraph comme ci-dessous:
 
 ![image](https://github.com/user-attachments/assets/4d784788-ecec-4ab4-8c7d-113abc3653cc)
 
-![image](https://github.com/user-attachments/assets/2fe60265-e825-4419-9671-d47c65b67794)
-
 ---
