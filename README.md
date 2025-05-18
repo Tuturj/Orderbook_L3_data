@@ -78,6 +78,9 @@ Par défaut, l'application s'abonne au symbole `['BTC/USD']`. Pour modifier la p
 
 ## Résultats
 On obtient un plot pyqtgraph comme ci-dessous:
-![image](https://github.com/user-attachments/assets/43e7e110-8aba-47b9-b031-cf7b7e927074)
+
+![image](https://github.com/user-attachments/assets/4d784788-ecec-4ab4-8c7d-113abc3653cc)
+
+![image](https://github.com/user-attachments/assets/2fe60265-e825-4419-9671-d47c65b67794)
 
 ---
